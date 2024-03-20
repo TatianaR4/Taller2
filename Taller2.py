@@ -16,5 +16,21 @@ variable=True
 variable='a'
 variable=3.1415926535
 
-
 #Para asignar un valor a la varibale se usa el operador=
+
+
+#OPERADORES: Mecanismo para obtener un dato apartir de otros datos
+#Los datos que intervienen se llaman operandos.
+
+#Aritmeticos: + - * / 
+#De comparavion: Retornan Tru or False. < > >= <= == !=
+#Logica Booleana: OR AND. Retornan True o False de acuerdo a una Tabla de verdad
+#Los operandos siemrpre son booleanor(True or False)
+
+
+a=True 
+b=False
+
+print (a and b)
+
+#Los operadores booleanos y de comparacion son muy utilizados al definir condiciones 
